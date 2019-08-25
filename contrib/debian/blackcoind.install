@@ -1,0 +1,2 @@
+debian/bin/melonheadsprotocold usr/bin
+src/melonheadsprotocold usr/lib/melonheadsprotocol

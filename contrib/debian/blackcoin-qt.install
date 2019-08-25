@@ -1,0 +1,5 @@
+melonheadsprotocol-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/melonheadsprotocol-qt.desktop usr/share/applications
+debian/melonheadsprotocol-qt.protocol usr/share/kde4/services/

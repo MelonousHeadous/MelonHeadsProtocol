@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MelonHeadsProtocol
+Comment=MelonHeadsProtocol P2P Cryptocurrency
+Comment[fr]=MelonHeadsProtocol, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MelonHeadsProtocol, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/melonheadsprotocol-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/melonheadsprotocol;
+Categories=Office;
