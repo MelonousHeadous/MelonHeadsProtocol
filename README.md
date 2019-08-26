@@ -11,25 +11,25 @@ This is done by offering "mining" incentives to both the technological end of th
 ### COIN SPECIFICATIONS
 
 ```
-Algorithm    Scrypt
-Block type    Proof-of-Work/Proof-of-Stake
-Coin name    MelonHeadsProtocol
-Coin abbreviation    MHSP
-Address letter    M
-Address letter testnet    P
-RPC port    10999
-P2P port    21000
-Block reward    3 coins
-Coin supply    165000000 coins
-Premine amount    15000000 coins
-PoS percentage    8% per year
-Last PoW block    block 50000000
-Min. stake age   1 hours
-Max. stake age    Unlimited
-Coinbase maturity    6 blocks
-Target spacing    30 seconds
-Target timespan    15 minutes
-Transaction confirmations    3 blocks
+>Algorithm                    Scrypt
+>Block type                   Proof-of-Work/Proof-of-Stake
+>Coin name                    MelonHeadsProtocol
+>Coin abbreviation            MHSP
+>Address letter               M
+>Address letter testnet       P
+>RPC port                     10999
+>P2P port                     21000
+>Block reward                 3 coins
+>Coin supply                  165000000 coins
+>Premine amount               15000000 coins
+>PoS percentage               8% per year
+>Last PoW block               block 50000000
+>Min. stake age               1 hours
+>Max. stake age               Unlimited
+>Coinbase maturity            6 blocks
+>Target spacing               30 seconds
+>Target timespan              15 minutes
+>Transaction confirmations    3 blocks
 ```
 
 ## OFFICIAL LINKS
