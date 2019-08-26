@@ -10,6 +10,7 @@ MelonHeadsProtocol <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=g
 > * __Facebook:__ [https://www.facebook.com/alexander.huntington.988](https://www.facebook.com/alexander.huntington.988)
 > * __Twitter:__ [https://twitter.com/MelonHe39825419](https://twitter.com/MelonHe39825419)
 > * __Discord:__ [https://discordapp.com/channels/529761213215801346/529801382971310080](https://discordapp.com/channels/529761213215801346/529801382971310080)
+> * __BitTube:__ [https://bit.tube/melonheads_Official](https://bit.tube/melonheads_Official)
 > * __Altmarket Exchange:__ [https://altmarkets.io/trading/mhspbtc](https://altmarkets.io/trading/mhspbtc)
 
 ## What is MHSP coin?
