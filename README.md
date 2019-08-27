@@ -1,6 +1,6 @@
 # MelonHeadsProtocol(MHSP)
 
-<p style="text-align:center;"><img src="https://www.melonheads.org/resources/MHSPlogo.png.opt549x549o0%2C0s549x549.png"></p>
+<p style="text-align:center;"><img src="https://www.melonheads.org/resources/Second_MelonHead_Coin_Side_A.png.opt549x549o0%2C0s549x549.png"></p>
 
 ### What is MHSP coin?
 
