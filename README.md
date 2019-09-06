@@ -39,6 +39,8 @@ This is done by offering "mining" incentives to both the technological end of th
   * TWITTER: https://twitter.com/MelonHe39825419
   * BITCOINTALK: https://bitcointalk.org/index.php?topic=5167342.0
   * ALTMARKET EXCHANGE: https://altmarkets.io/trading/mhspbtc
+  * DISCLAIMER: https://www.melonheads.org/Disclaimer.php
+  * PRIVACY POLICY: https://www.melonheads.org/Privacy-Policy.php
 
 ### BUILD INSTRUCTIONS
 MHSP Coin Linux QT Compiled With Ubuntu 16.04.4 x86_64
