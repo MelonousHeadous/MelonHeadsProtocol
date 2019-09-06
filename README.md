@@ -43,7 +43,7 @@ This is done by offering "mining" incentives to both the technological end of th
   * TELEGRAM: https://t.me/joinchat/Mj8fWVknTnumFC1frxCCjw
   * INSTAGRAM: https://www.instagram.com/melonheadsprotocol
   * TWITTER: https://twitter.com/MHSP_Official
-
+  * GEM SHOP: https://www.melonheads.org/GEM-SHOP.php
 
 ### BUILD INSTRUCTIONS
 MHSP Coin Linux QT Compiled With Ubuntu 16.04.4 x86_64
