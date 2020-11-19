@@ -352,7 +352,7 @@ static QWidget* makeToolBarSpacer()
 {
     QWidget* spacer = new QWidget();
     spacer->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Expanding);
-    spacer->setStyleSheet(fUseBlackTheme ? "QWidget { background: rgb(30,32,36); }" : "QWidget { background: none; }");
+    spacer->setStyleSheet(fUseBlackTheme ? "QWidget { background: rgb(28,51,118); }" : "QWidget { background: none; }");
     return spacer;
 }
 
@@ -365,9 +365,9 @@ void BitcoinGUI::createToolBars()
     if (fUseBlackTheme)
     {
         QWidget* header = new QWidget();
-        header->setMinimumSize(160, 116);
+        header->setMinimumSize(160, 230);
         header->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
-        header->setStyleSheet("QWidget { background-color: rgb(24,26,30); background-repeat: no-repeat; background-image: url(:/images/header); background-position: top center; }");
+        header->setStyleSheet("QWidget { background-color: rgb(28,51,118); background-repeat: no-repeat; background-image: url(:/images/header); background-position: top center;}");
         toolbar->addWidget(header);
         toolbar->addWidget(makeToolBarSpacer());
     }
